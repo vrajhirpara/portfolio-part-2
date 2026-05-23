@@ -1,4 +1,7 @@
 # Activity B1 - Weak Security Implementations 
-This activity identifies weak security practices such as weak passwords. 
  
-No Multi-Factor Authentication is another weak security implementation because attackers can access accounts using only stolen passwords. 
+1. Weak Password Policy 
+Weak passwords can be guessed easily by attackers using brute-force attacks. 
+ 
+2. No Multi-Factor Authentication (MFA) 
+Systems without MFA are less secure because attackers can access accounts using stolen passwords only. 
